@@ -1,0 +1,23 @@
+{
+  "name": "cohort11_ionic_weather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ldougher06/cohort11_ionic_weather.git"
+  },
+  "author": "logan dougher",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ldougher06/cohort11_ionic_weather/issues"
+  },
+  "homepage": "https://github.com/ldougher06/cohort11_ionic_weather#readme",
+  "cordovaPlugins": [],
+  "cordovaPlatforms": [
+    "ios"
+  ]
+}
